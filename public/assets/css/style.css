@@ -24,6 +24,7 @@ h1 {
     box-shadow: 0 0 20px #000;
     padding: 20px;
     border-radius: 10px;
+    color: rgb(255, 255, 255);
 }
 .task_box {
     max-width: 500px;
